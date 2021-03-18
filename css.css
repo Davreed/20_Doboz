@@ -1,0 +1,42 @@
+.container {
+    display:flex;
+    border:solid 2px  #0099ff;
+    width:470px;
+    height:75px;
+    list-style-type: none;
+    color:aqua;
+    margin:0px;
+    justify-content:center;
+    padding:0px;
+    margin-bottom: 10px;
+  
+  }
+  .item{
+  width:35px;
+  height:35px;
+  background:#0099ff;;
+  margin:5px;
+  margin-bottom:20px;
+  margin-top:20px;
+  }
+  .container1 {
+    display:flex;
+    border:solid 2px  #0099ff;
+    width:470px;
+    height:75px;
+    list-style-type: none;
+    color:aqua;
+    margin:0px;
+    justify-content:center;
+    padding:0px;
+    background-color:rgb(247, 88, 88)
+    
+  }
+  .item1{
+  width:35px;
+  height:35px;
+  background:purple;
+  margin:5px;
+  margin-bottom:20px;
+  margin-top:20px;
+  }
